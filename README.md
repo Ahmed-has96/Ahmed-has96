@@ -70,8 +70,4 @@ GitHub: github.com/Ahmed-has96
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-has96&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-has96&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-has96)
