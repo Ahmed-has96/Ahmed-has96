@@ -66,3 +66,10 @@ Frontend Developer (Contract) – Lucio AS (2024–2025)
 
 LinkedIn: www.linkedin.com/in/ahmed-yas2907  
 GitHub: github.com/Ahmed-has96
+
+
+## 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-has96&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-has96&layout=compact&theme=tokyonight)
