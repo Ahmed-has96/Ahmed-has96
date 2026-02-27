@@ -15,7 +15,6 @@ Oslo, Norway
 
 ---
 
-## 🚀 About Me
 
 ## 🚀 About Me
 
