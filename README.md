@@ -8,8 +8,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-Fullstack Developer (Frontend-focused)  
-Bachelor in Information Technology – Frontend & Mobile Development  
+Fullstack Developer 
+### Mobile & Web Developer based in Oslo
+Building structured, scalable applications across mobile and web using modern architectures and REST APIs.
 Oslo, Norway  
 
 ---
