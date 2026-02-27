@@ -68,6 +68,4 @@ LinkedIn: www.linkedin.com/in/ahmed-yas2907
 GitHub: github.com/Ahmed-has96
 
 
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-has96)
