@@ -52,9 +52,16 @@ I enjoy turning complex data into intuitive user experiences and continuously im
 
 ---
 
-## 💼 Experience
+### 🔥 Featured Projects
 
-Frontend Developer (Contract) – Lucio AS (2024–2025)  
+#### 📱 FakeStore-Android-App
+Android app built with Kotlin that integrates the FakeStore API with clean MVVM architecture.
+
+#### 🚀 CryptoTrackerApp
+iOS app built using SwiftUI and CoinLore API to track cryptocurrency prices.
+
+#### 🌐 F1SpecialEvent
+Web app combining React frontend and .NET backend for racing event info.
 
 ---
 
