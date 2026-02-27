@@ -17,13 +17,13 @@ Oslo, Norway
 
 ## 🚀 About Me
 
-I build stable and user-friendly web applications with strong focus on structure, accessibility and data flow.
+## 🚀 About Me
 
-My background combines:
-- Modern frontend development (React & TypeScript)
-- Backend development with .NET REST APIs
+I build structured and user-focused web and mobile applications with strong emphasis on clean architecture and clear data flow.
 
-I enjoy building solutions that combine data, logic and clean user interfaces.
+My main focus is modern frontend development using React and TypeScript, combined with API integration and backend collaboration.
+
+I enjoy turning complex data into intuitive user experiences and continuously improving code quality and structure.
 
 
 
