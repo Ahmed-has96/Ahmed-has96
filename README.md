@@ -1,28 +1,45 @@
-Ahmed Hassan
+# Ahmed Hassan
 
-Show Image Show Image .NET Show Image Show Image
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) [.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-Mobile & Web Developer based in Oslo
+---
+
+### Mobile & Web Developer based in Oslo
 
 Building structured, scalable applications across mobile and web — with a particular interest in turning complex data (geodata, APIs, sensor data) into interfaces people can actually use.
 
-🔥 Featured Project
-🗺️ Huldra — Road Damage Detection
+---
 
-Bachelor's thesis (grade A) built in collaboration with Triona AS. A system that processes LiDAR and NVDB (Norwegian road database) data, calculates a condition grade (1–5) for road surfaces, and visualizes results on an interactive map to support maintenance planning decisions.
+## 🔥 Featured Project
 
-Stack: React · TypeScript · OpenLayers · C#/.NET REST API · GeoJSON · LiDAR/NVDB
+### 🗺️ Huldra — Road Damage Detection
+Bachelor's thesis (grade A) built in collaboration with **Triona AS**. A system that processes LiDAR and NVDB (Norwegian road database) data, calculates a condition grade (1–5) for road surfaces, and visualizes results on an interactive map to support maintenance planning decisions.
 
-Built for and owned by Triona AS — source code is confidential, but I'm happy to walk through the architecture and approach in detail. See my portfolio site for a full write-up.
+**Stack:** React · TypeScript · OpenLayers · C#/.NET REST API · GeoJSON · LiDAR/NVDB
 
-🛠 Tech Stack
+> Built for and owned by Triona AS — source code is confidential, but I'm happy to walk through the architecture and approach in detail. See [my portfolio site](https://ahmed-has96.github.io) for a full write-up.
 
-Frontend: React · TypeScript · JavaScript · HTML/CSS Backend: C#/.NET · REST APIs · SQL Mobile: Swift/SwiftUI · Kotlin/Jetpack Compose Tools: Git · Azure DevOps · GitHub
+---
 
-📱 Other Projects
-FakeStore-Android-App — Android app in Kotlin, MVVM architecture, FakeStore API
-F1SpecialEvent — React frontend + .NET backend for racing event info
-CryptoTrackerApp — iOS app in SwiftUI tracking crypto prices via CoinLore API
-📫 Connect
+## 🛠 Tech Stack
 
-Portfolio: ahmed-has96.github.io LinkedIn: linkedin.com/in/ahmed-yas2907 Email: Ahmed.yah2907@gmail.com
+**Frontend:** React · TypeScript · JavaScript · HTML/CSS
+**Backend:** C#/.NET · REST APIs · SQL
+**Mobile:** Swift/SwiftUI · Kotlin/Jetpack Compose
+**Tools:** Git · Azure DevOps · GitHub
+
+---
+
+## 📱 Other Projects
+
+- **[FakeStore-Android-App](https://github.com/Ahmed-has96/FakeStore-Android-App)** — Android app in Kotlin, MVVM architecture, FakeStore API
+- **[F1SpecialEvent](https://github.com/Ahmed-has96/F1SpecialEvent)** — React frontend + .NET backend for racing event info
+- **[CryptoTrackerApp](https://github.com/Ahmed-has96/CryptoTrackerApp)** — iOS app in SwiftUI tracking crypto prices via CoinLore API
+
+---
+
+## 📫 Connect
+
+Portfolio: [ahmed-has96.github.io](https://ahmed-has96.github.io)
+LinkedIn: [linkedin.com/in/ahmed-yas2907](https://www.linkedin.com/in/ahmed-yas2907)
+Email: Ahmed.yah2907@gmail.com
