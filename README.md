@@ -1,4 +1,4 @@
-GitHub    # Ahmed Hassan 
+# Ahmed Hassan 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -15,7 +15,6 @@ Oslo, Norway
 
 ---
 
-
 ## 🚀 About Me
 
 I build structured and user-focused web and mobile applications with strong emphasis on clean architecture and clear data flow.
@@ -23,8 +22,6 @@ I build structured and user-focused web and mobile applications with strong emph
 My main focus is modern frontend development using React and TypeScript, combined with API integration and backend collaboration.
 
 I enjoy turning complex data into intuitive user experiences and continuously improving code quality and structure.
-
-
 
 ---
 
@@ -52,7 +49,18 @@ I enjoy turning complex data into intuitive user experiences and continuously im
 
 ---
 
-### 🔥 Featured Projects
+## 🔥 Featured Project
+
+### 🗺️ Huldra — Road Damage Detection
+Bachelor's thesis (grade A) built in collaboration with **Triona AS**. Processes LiDAR and NVDB (Norwegian road database) data, calculates a condition grade (1–5) for road surfaces, and visualizes results on an interactive map to support maintenance planning decisions.
+
+**Stack:** React · TypeScript · OpenLayers · C#/.NET REST API · GeoJSON · LiDAR/NVDB
+
+> Built for and owned by Triona AS — source code is confidential, but I'm happy to walk through the architecture in an interview.
+
+---
+
+### Other Projects
 
 #### 📱 FakeStore-Android-App
 Android app built with Kotlin that integrates the FakeStore API with clean MVVM architecture.
@@ -67,7 +75,5 @@ Web app combining React frontend and .NET backend for racing event info.
 
 ## 📫 Connect
 
-LinkedIn: www.linkedin.com/in/ahmed-yas2907  
+LinkedIn: [www.linkedin.com/in/ahmed-yas2907](https://www.linkedin.com/in/ahmed-yas2907)  
 GitHub: github.com/Ahmed-has96
-
-
