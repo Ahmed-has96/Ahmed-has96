@@ -6,7 +6,7 @@ Utvikler i Oslo med bachelor i informasjonsteknologi, med fordypning i frontend-
 
 [Les C#-koden](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEventAPI/Controllers/DriversController.cs) · [Se hele prosjektet](https://github.com/Ahmed-has96/F1SpecialEvent)
 
-I denne appen kan du registrere Formel 1-førere og søke dem opp igjen. Et eksempel du kan følge i koden er søk etter en fører med en bestemt ID: [React-klienten](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEvent/src/Service/DriverService.jsx) sender en forespørsel, og metoden `GetDriver` i C# henter føreren fra SQLite via Entity Framework Core. Finnes ingen fører med den ID-en, svarer API-et med `404 Not Found`.
+Jeg bygde F1 Special Event på egen hånd og skrev både brukergrensesnittet i React og API-et i C#/.NET. Når du søker etter en Formel 1-fører, sender [React-klienten](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEvent/src/Service/DriverService.jsx) førerens ID til API-et. Metoden `GetDriver` henter føreren fra SQLite eller svarer med `404 Not Found` hvis ID-en ikke finnes.
 
 ## Huldra · bachelorprosjekt for Triona AS
 
