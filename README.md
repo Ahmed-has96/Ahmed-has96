@@ -1,12 +1,20 @@
 # Ahmed Hassan
 
-Utvikler i Oslo med bachelor i informasjonsteknologi, med fordypning i frontend- og mobilutvikling. Hos Lucio AS jobbet jeg med navigasjon, komponenter og API-integrasjoner i React og TypeScript.
+Utvikler i Oslo med bachelor i informasjonsteknologi og fordypning i frontend- og mobilutvikling.
 
-## F1 Special Event · C# og React
+## F1 Special Event
 
-[Les C#-koden](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEventAPI/Controllers/DriversController.cs) · [Se hele prosjektet](https://github.com/Ahmed-has96/F1SpecialEvent)
+Jeg bygde F1 Special Event, en webapp der du kan registrere, søke opp og redigere Formel 1-førere.
 
-Jeg bygde F1 Special Event på egen hånd og skrev både brukergrensesnittet i React og API-et i C#/.NET. Når du søker etter en Formel 1-fører, sender [React-klienten](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEvent/src/Service/DriverService.jsx) førerens ID til API-et. Metoden `GetDriver` henter føreren fra SQLite eller svarer med `404 Not Found` hvis ID-en ikke finnes.
+### Backend · C#/.NET og SQLite
+
+Jeg skrev et REST-API i C# med ASP.NET Core og brukte Entity Framework Core til å lagre førerdata i SQLite. Når brukeren søker på navn eller ID, returnerer API-et opplysningene om føreren ved treff og `404 Not Found` hvis føreren ikke finnes. [Se C#-koden](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEventAPI/Controllers/DriversController.cs)
+
+### Frontend · React
+
+Jeg bygde søkevisningen og skjemaene for å registrere og redigere førere i React. Jeg samlet API-kallene i en egen fil, slik at de ulike skjermbildene kan bruke de samme funksjonene for å hente og oppdatere førerdata. [Se søkevisningen i React](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEvent/src/components/Drivers/SearchDriver.jsx)
+
+[Se hele prosjektet](https://github.com/Ahmed-has96/F1SpecialEvent)
 
 ## Huldra · bachelorprosjekt for Triona AS
 
