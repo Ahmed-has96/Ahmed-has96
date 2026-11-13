@@ -1,28 +1,81 @@
-# Ahmed Hassan
+# Ahmed Hassan 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Utvikler i Oslo med bachelor i informasjonsteknologi og fordypning i frontend- og mobilutvikling.
+[F1 · C#](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEventAPI/Controllers/DriversController.cs) · [F1 · React](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEvent/src/components/Drivers/SearchDriver.jsx) · [FakeStore · Kotlin](https://github.com/Ahmed-has96/FakeStore-Android-App/blob/main/app/src/main/java/com/example/fakestore/Api/ProductRepository.kt) · [CryptoTracker · Swift](https://github.com/Ahmed-has96/CryptoTrackerApp/blob/main/CryptoTracker/CryptoTracker/Services/CoinAPIService.swift) · [Huldra · overview](https://github.com/Ahmed-has96/Huldra-Vegskadedeteksjo#readme)
 
-## F1 Special Event
+---
+Fullstack Developer 
+### Mobile & Web Developer based in Oslo
+Building structured, scalable applications across mobile and web using modern architectures and REST APIs.
+Oslo, Norway  
 
-Jeg bygde F1 Special Event, en webapp der du kan registrere, søke opp og redigere Formel 1-førere.
+---
 
-### Backend · C#/.NET og SQLite
+## 🚀 About Me
 
-Jeg skrev et REST-API i C# med ASP.NET Core og brukte Entity Framework Core til å lagre førerdata i SQLite. Når brukeren søker på navn eller ID, returnerer API-et opplysningene om føreren ved treff og `404 Not Found` hvis føreren ikke finnes. [Se C#-koden](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEventAPI/Controllers/DriversController.cs)
+I build structured and user-focused web and mobile applications with strong emphasis on clean architecture and clear data flow.
 
-### Frontend · React
+My main focus is modern frontend development using React and TypeScript, combined with API integration and backend collaboration.
 
-Jeg bygde søkevisningen og skjemaene for å registrere og redigere førere i React. Jeg samlet API-kallene i en egen fil, slik at de ulike skjermbildene kan bruke de samme funksjonene for å hente og oppdatere førerdata. [Se søkevisningen i React](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEvent/src/components/Drivers/SearchDriver.jsx)
+I enjoy turning complex data into intuitive user experiences and continuously improving code quality and structure.
 
-[Se hele prosjektet](https://github.com/Ahmed-has96/F1SpecialEvent)
+---
 
-## Huldra · bachelorprosjekt for Triona AS
+## 🛠 Tech Stack
 
-Jeg hadde hovedansvar for frontend og bygde en kartvisning i React og OpenLayers som viste hvor en veiskade lå og hvor alvorlig den var. Prosjektet fikk karakter A. [Les prosjektbeskrivelsen](https://github.com/Ahmed-has96/Huldra-Vegskadedeteksjo). Kildekoden tilhører Triona.
+**Frontend**
+- React
+- TypeScript
+- JavaScript
+- HTML / CSS
 
-## Mobilprosjekter
+**Backend**
+- C# / .NET
+- REST APIs
+- SQL
 
-- [FakeStore](https://github.com/Ahmed-has96/FakeStore-Android-App) – Android-app som henter produktdata fra FakeStore API i Kotlin.
-- [CryptoTracker](https://github.com/Ahmed-has96/CryptoTrackerApp) – iOS-app som viser kryptopriser fra CoinLore i SwiftUI.
+**Mobile**
+- Swift / SwiftUI
+- Kotlin / Jetpack Compose
 
-[Portefølje](https://ahmed-has96.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahmed-yas2907)
+**Tools**
+- Git
+- Azure DevOps
+- GitHub
+
+---
+
+## 🔥 Featured Project
+
+### 🗺️ [Huldra — Road Damage Detection](https://github.com/Ahmed-has96/Huldra-Vegskadedeteksjo)
+Bachelor's thesis (grade A) built in collaboration with **Triona AS**. Processes LiDAR and NVDB (Norwegian road database) data, calculates a condition grade (1–5) for road surfaces, and visualizes results on an interactive map to support maintenance planning decisions.
+
+**Stack:** React · TypeScript · OpenLayers · C#/.NET REST API · GeoJSON · LiDAR/NVDB
+
+> Built for and owned by Triona AS — source code is confidential, but I'm happy to walk through the architecture in an interview.
+
+---
+
+### Other Projects
+
+#### 📱 [FakeStore-Android-App](https://github.com/Ahmed-has96/FakeStore-Android-App)
+Android app built with Kotlin that integrates the FakeStore API with clean MVVM architecture.
+
+#### 🚀 [CryptoTrackerApp](https://github.com/Ahmed-has96/CryptoTrackerApp)
+iOS app built using SwiftUI and CoinLore API to track cryptocurrency prices.
+
+#### 🌐 [F1SpecialEvent](https://github.com/Ahmed-has96/F1SpecialEvent)
+Web app combining React frontend and .NET backend for racing event info.
+
+---
+
+## 📫 Connect
+
+LinkedIn: [www.linkedin.com/in/ahmed-yas2907](https://www.linkedin.com/in/ahmed-yas2907)  
+GitHub: github.com/Ahmed-has96
