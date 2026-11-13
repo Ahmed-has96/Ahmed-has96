@@ -1,79 +1,20 @@
-# Ahmed Hassan 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+# Ahmed Hassan
 
----
-Fullstack Developer 
-### Mobile & Web Developer based in Oslo
-Building structured, scalable applications across mobile and web using modern architectures and REST APIs.
-Oslo, Norway  
+Utvikler i Oslo med bachelor i informasjonsteknologi, med fordypning i frontend- og mobilutvikling. Hos Lucio AS jobbet jeg med navigasjon, komponenter og API-integrasjoner i React og TypeScript.
 
----
+## F1 Special Event · C# og React
 
-## 🚀 About Me
+[Les C#-koden](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEventAPI/Controllers/DriversController.cs) · [Se hele prosjektet](https://github.com/Ahmed-has96/F1SpecialEvent)
 
-I build structured and user-focused web and mobile applications with strong emphasis on clean architecture and clear data flow.
+I denne appen kan du registrere Formel 1-førere og søke dem opp igjen. Et eksempel du kan følge i koden er søk etter en fører med en bestemt ID: [React-klienten](https://github.com/Ahmed-has96/F1SpecialEvent/blob/main/Webutvikling/F1SpecialEvent/src/Service/DriverService.jsx) sender en forespørsel, og metoden `GetDriver` i C# henter føreren fra SQLite via Entity Framework Core. Finnes ingen fører med den ID-en, svarer API-et med `404 Not Found`.
 
-My main focus is modern frontend development using React and TypeScript, combined with API integration and backend collaboration.
+## Huldra · bachelorprosjekt for Triona AS
 
-I enjoy turning complex data into intuitive user experiences and continuously improving code quality and structure.
+Jeg hadde hovedansvar for frontend og bygde en kartvisning i React og OpenLayers som viste hvor en veiskade lå og hvor alvorlig den var. Prosjektet fikk karakter A. [Les prosjektbeskrivelsen](https://github.com/Ahmed-has96/Huldra-Vegskadedeteksjo). Kildekoden tilhører Triona.
 
----
+## Mobilprosjekter
 
-## 🛠 Tech Stack
+- [FakeStore](https://github.com/Ahmed-has96/FakeStore-Android-App) – Android-app som henter produktdata fra FakeStore API i Kotlin.
+- [CryptoTracker](https://github.com/Ahmed-has96/CryptoTrackerApp) – iOS-app som viser kryptopriser fra CoinLore i SwiftUI.
 
-**Frontend**
-- React
-- TypeScript
-- JavaScript
-- HTML / CSS
-
-**Backend**
-- C# / .NET
-- REST APIs
-- SQL
-
-**Mobile**
-- Swift / SwiftUI
-- Kotlin / Jetpack Compose
-
-**Tools**
-- Git
-- Azure DevOps
-- GitHub
-
----
-
-## 🔥 Featured Project
-
-### 🗺️ Huldra — Road Damage Detection
-Bachelor's thesis (grade A) built in collaboration with **Triona AS**. Processes LiDAR and NVDB (Norwegian road database) data, calculates a condition grade (1–5) for road surfaces, and visualizes results on an interactive map to support maintenance planning decisions.
-
-**Stack:** React · TypeScript · OpenLayers · C#/.NET REST API · GeoJSON · LiDAR/NVDB
-
-> Built for and owned by Triona AS — source code is confidential, but I'm happy to walk through the architecture in an interview.
-
----
-
-### Other Projects
-
-#### 📱 FakeStore-Android-App
-Android app built with Kotlin that integrates the FakeStore API with clean MVVM architecture.
-
-#### 🚀 CryptoTrackerApp
-iOS app built using SwiftUI and CoinLore API to track cryptocurrency prices.
-
-#### 🌐 F1SpecialEvent
-Web app combining React frontend and .NET backend for racing event info.
-
----
-
-## 📫 Connect
-
-LinkedIn: [www.linkedin.com/in/ahmed-yas2907](https://www.linkedin.com/in/ahmed-yas2907)  
-GitHub: github.com/Ahmed-has96
+[Portefølje](https://ahmed-has96.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahmed-yas2907)
